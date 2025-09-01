@@ -1,8 +1,4 @@
-env/
 .env/
-
-/data/
-*.zip
-*.tar.gz
+env/
 dataset/
-/dataset
+__pycache__/
